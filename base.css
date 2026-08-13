@@ -4,7 +4,17 @@
 
 }
 .title{
-    font-size: 20px;
+    font-size: 50px;
     color: #666;
-    
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+.header{
+    background-color: #baabab;
+    padding: 20px;
+    text-align: center;
+}
+.head{
+    font-size: 30px;
+    color: #444;
 }
